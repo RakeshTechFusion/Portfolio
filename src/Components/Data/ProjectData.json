@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "img": "https://miro.medium.com/max/875/1*qJgopWyQLkaj5va6AiRnwQ.png",
+        "name": "Twitter (clone)",
+        "desc": "Twitter is an Social media online marketplace. The company is headquartered inSan Francisco, California, United States",
+        "github": "https://github.com/SWAIN1998/Twitter",
+        "link": "https://cerulean-pasca-dc6677.netlify.app",
+        "tech":[
+            "https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://miro.medium.com/max/875/0*B-9afLtCPz9HX9dI.png",
+        "name": "Myntra(clone)",
+        "desc": "Myntra is a one stop shop for all your fashion and lifestyle needs. Being India's largest e-commerce store for fashion and lifestyle products",
+        "github": "https://github.com/yashtomar15/myntra-clone",
+        "link": "https://cranky-knuth-b30b90.netlify.app/",
+        "tech":[
+            "https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"
+        ]
+    },
+    {
+        "id": 3,
+        "img": "https://miro.medium.com/max/875/0*O37uXIOdq5_uNSjL.jpeg",
+        "name": "Zappos (clone)",
+        "desc": "Zappos.com is an American online shoe and clothing retailer based in Las Vegas, Nevada, United States. The company was founded in 1999 by Nick Swinmurn and launched under the domain name Shoesite.com. In July 2009, Amazon acquired Zappos in an all-stock deal worth around $1.2 billion at the time.",
+        "github": "https://github.com/SWAIN1998/Zappos",
+        "link": "https://dynamic-strudel-3a04dd.netlify.app/",
+        "tech":[
+            "https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"
+        ]
+    },
+    {
+        "id": 4,
+        "img": "https://miro.medium.com/max/875/0*f6BbgVTX2qpvRmvb.png",
+        "name": "Mamaearth (clone)",
+        "desc": "Mamaearth Natural & Toxin Free Skin Care Products Online. Only Toxin Free Madesafe Certified Brand In India.",
+        "github": "https://github.com/roshan93190/mamaearth",
+        "link": "https://gracious-noyce-faf161.netlify.app/",
+        "tech":[
+            "https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"
+        ]
+    }
+]
