@@ -1,70 +1,86 @@
-# Getting Started with Create React App
+Welcome to developer-portfolio 👋
+GitHub licenseGitHub issuesGitHub forks GitHub stars
+Software Developer Portfolio Template built with React.js, bootstrap that helps you showcase your work and skills as a software developer.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+To view a live example, click here.
+Just Edit portfolio.js to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
-In the project directory, you can run:
+But if you want to contribute and make this much better for other developer have a look at Issues.
 
-### `npm start`
+If you created something awesome and want to contribute then feel free to open an pull request.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Table of Contents
+Sections
+Getting Started
+How to Use
+Linking portfolio to Github
+Change and Customize
+Technologies Used
+Illustrations
+For the Future
+Contributors
+Sections
+✔️ Summary and About me
+✔️ Skills
+✔️ Education
+✔️ Work Experience
+✔️ Projects
+✔️ Github Profile
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### `npm test`
+You'll need Git and Node.js (which comes with npm) installed on your computer.
+For Windows Install Visual C++ Build Environment: Visual Studio Build Tools
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+node@v10.16.0 or higher
+npm@6.9.0 or higher
+git@2.17.1 or higher
+How To Use
+From your command line, clone and run developer-portolio:
 
-### `npm run build`
+# Clone this repository
+$ git clone https://github.com/SWAIN1998/Portfolio.git
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Go into the repository
+$ cd my_portfolio
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Install dependencies
+$ yarn
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#Start's development server
+$ yarn dev
+Linking Portfolio to Github
+  //  portfolio.js
+  githubUserName: 'YOUR GITHUB USERNAME HERE',
+Using Emojis
+For adding emoji 😃 into the texts in Portfolio.js, use the emoji() function and pass the text you need as an argument. This would help in keeping emojis compatible across different browsers and platforms.
 
-### `npm run eject`
+Technologies Used
+react.js
+axios
+reactstrap
+react-reveal
+react-lottie
+react-easy-emoji
+react-headroom
+color-thief
+Illustrations
+Lottie File Source
+For the Future
+If you can help us with these. Please don't hesitate to open a pull request.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Enable Dark Mode
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Add More Sections
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Author
+👤 Rakesh kumar swain
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Website: https://unrivaled-youtiao-f4b674.netlify.app/
+Twitter: @RakeshS42621781
+Github: @SWAIN1998
+LinkedIn: @rakesh-kumar-swain-8259a7164
+Show your support
+Give a ⭐️ if this project helped you!
