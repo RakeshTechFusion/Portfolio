@@ -10,7 +10,7 @@ But if you want to contribute and make this much better for other developer have
 
 If you created something awesome and want to contribute then feel free to open an pull request.
 
-Table of Contents
+**Table of Contents**
 Sections
 Getting Started
 How to Use
@@ -20,7 +20,8 @@ Technologies Used
 Illustrations
 For the Future
 Contributors
-Sections
+
+**Sections**
 ✔️ Summary and About me
 ✔️ Skills
 ✔️ Education
