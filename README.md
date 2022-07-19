@@ -4,7 +4,7 @@ A personal portfolio website that provides information about what i do and my ot
  
  
  ### PREVIEW - 
- ## You can see a live preview of the Website on - [https://unrivaled-youtiao-f4b674.netlify.app](https://unrivaled-youtiao-f4b674.netlify.app).
+ ## You can see a live preview of the Website on - [https://resonant-begonia-5f63bb.netlify.app/](Portfolio).
  
  **TECHNOLOGY USED**
  1. ***FRONT END-*** 
