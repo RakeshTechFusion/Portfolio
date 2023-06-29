@@ -4,7 +4,7 @@ A personal portfolio website that provides information about what i do and my ot
  
  
  ### PREVIEW - 
- ## You can see a live preview of the Website on - [Portfolio link](https://resonant-begonia-5f63bb.netlify.app/).
+ ## You can see a live preview of the Website on - [Portfolio link](https://rakesh-kumar-portfolio.netlify.app/).
  
  **TECHNOLOGY USED**
  1. ***FRONT END-*** 
